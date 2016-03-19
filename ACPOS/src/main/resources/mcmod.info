@@ -1,0 +1,16 @@
+[
+{
+  "modid": "acpos",
+  "name": "Application of Chemistry and Physics for Orbital Science",
+  "description": "",
+  "version": "",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bluewolf279"],
+  "credits": "Turnip!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

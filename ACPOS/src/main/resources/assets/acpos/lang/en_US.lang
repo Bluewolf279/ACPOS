@@ -1,0 +1,12 @@
+< en_US.lang - English language localization file for mod: acpos >
+
+< Blocks >
+< Template - tile.unlocalizedName.name=name >
+tile.rutileOreRock.name=Rutile Ore
+tile.ilmeniteOreRock.name=Ilmenite Ore
+
+< Items >
+< Template - item.unlocalizedName.name=name >
+
+
+itemGroup.acpos=Acpos Items & Blocks!

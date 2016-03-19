@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="TESTMOD" />
+    <orderEntry type="module" module-name="MinecraftByExample-master" />
+    <orderEntry type="module" module-name="forge-1.8.9-11.15.1.1722-mdk" />
+    <orderEntry type="library" name="Gradle: net.minecraftforge:forgeSrc:1.8.9-11.15.1.1722" level="project" />
+    <orderEntry type="library" name="Gradle: net.minecraftforge:forgeSrc:1.8.9-11.15.1.1764" level="project" />
+  </component>
+</module>
